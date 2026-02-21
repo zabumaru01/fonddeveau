@@ -1,4 +1,7 @@
 # fonddeveau
+
+<img width="640" height="480" alt="fonddeveau_ScreenShot" src="https://github.com/user-attachments/assets/3f3b239e-9c23-4d8e-a9eb-89375b4d5330" />
+
 横8縦10ピクセルの枠に横7縦7ピクセルのかなや英数字や記号、横7縦8の漢字を入れる、
 
 という形を基本として作成しているフォントで、半角は全角と同じサイズです。
